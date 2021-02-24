@@ -1,4 +1,4 @@
-# PrusaSlicer settings for the Geeetech Prusa i3 Pro W
+# PrusaSlicer settings for the Geeetech Prusa i3 Pro
 
 A while ago I wanted to get started with 3D printing, so my wife bought me a simple DIY 3D printing kit from the chinese company Geeetech. So after assembling the whole thing together with my son, and the first try and errors with the Easy Print 3D software from Geeetech and weeks of printing with Cura 3D, I wanted to get PrusaSlicer to work because of some features I like there a lot, for example to print a brim and a skirt and so on. So after researching the Internet for a while, a reading the builtin settings from the printer from the display and via G-Codes I disovered the following settings are working fine for my Geeetech Prusa i3 Pro W but I think for every other Geeetech Prusa i3 variant too. So I wanted to share them, and here they are (mostly only the settings different from the default values of PrusaSlicer 2.2.0)
 
@@ -25,7 +25,6 @@ G1 Z15.0 F6000 ;Move the platform down 15mm
 G92 E0
 G1 F200 E3
 G92 E0
-
 ```
 
 #### End G-code
@@ -37,7 +36,6 @@ G92 E1
 G1 E-1 F300
 G28 X0 Y0;Home X axis and Y axis
 M84
-
 ```
 
 ### Machine limits
