@@ -1,4 +1,4 @@
-# System.ExecutionEngineException
+# ExecutionEngineException
 
 ## Problem
 
