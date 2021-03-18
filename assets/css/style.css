@@ -1,0 +1,46 @@
+
+/* style.css | https://lordasgart.github.io/assets/css/style.css?v=7aef8306ce163ff216535753dbb2095589c94025 */
+
+body {
+  /* color: #666; */
+  /* background: url(../images/body-background.png) #eae6d1; */
+  color: #aaaaaa;
+  background-color: #323232;
+}
+
+code {
+  /* font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal; */
+  /* font-family: ''Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal'; */
+  /* font-size: 13px; */
+  /* border-radius: 2px; */
+  font-family: 'Envy Code R', 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size: 12pt;
+  border-radius: 16px;
+}
+
+section {
+  /* background: #fbfbfb; */
+  /* border: 1px solid #cbcbcb; */
+  /* box-shadow: 0px 1px 2px rgba(0,0,0,0.09),inset 0px 0px 2px 2px rgba(255,255,255,0.5),inset 0 0 5px 5px rgba(255,255,255,0.4); */
+  background: #232323;
+}
+
+nav ul a {
+  /* color: #666; */
+  color: #cccccc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /* color: #333; */
+  color: #dddddd;
+}
+
+h2 {
+  /* color: #393939; */
+  color: #ccc;
+}
+
+h3, h4, h5, h6 {
+  /* color: #666666; */
+  color: #bbb;
+}
