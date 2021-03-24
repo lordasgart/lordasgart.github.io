@@ -28,7 +28,7 @@ Die Klasse `Class02` ist Erbe der Klasse `Class01`:
 
 ```plantuml
 @startuml
-Class01 <|-- Class02
+Class02 --|> Class01
 @enduml
 ```
 
