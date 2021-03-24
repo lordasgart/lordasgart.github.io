@@ -8,6 +8,6 @@ Die Klassen C und D stehen in Beziehung:
 
 ```plantuml
 @startuml
-Klasse C -- Klasse D
+ClassC -- ClassD
 @enduml
 ```
