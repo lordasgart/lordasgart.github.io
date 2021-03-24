@@ -44,6 +44,7 @@ Class15 ..> Class16
 
 ## List of references
 
+- [klasssen aggreagation - Google Suche](https://www.google.com/search?q=klasssen%20aggreagation)
 - [Microsoft PowerPoint - Folien07.ppt](https://www.dbs.ifi.lmu.de/Lehre/NFInfoSW/WS0708/Skript/Folien07.pdf)
 
 powered by
