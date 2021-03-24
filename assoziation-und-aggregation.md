@@ -42,6 +42,10 @@ Class15 ..> Class16
 @enduml
 ```
 
+## List of references
+
+- [Microsoft PowerPoint - Folien07.ppt](https://www.dbs.ifi.lmu.de/Lehre/NFInfoSW/WS0708/Skript/Folien07.pdf)
+
 powered by
 
 - [PlantUML Visualizer – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/plantuml-visualizer/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
