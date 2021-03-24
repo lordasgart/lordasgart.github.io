@@ -2,8 +2,9 @@
 
 Assoziation ist eine Beziehung zwischen zwei oder mehr Klassen
 
-## Assoziation: Die Klassen C und D stehen
-in Beziehung
+## Assoziation
+
+Die Klassen C und D stehen in Beziehung:
 
 ```plantuml
 @startuml
