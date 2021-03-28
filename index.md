@@ -1,3 +1,4 @@
+- [Compilers: Principles, Techniques, and Tools - 1.6.3 Static Scope and Block Structure (Samples in C#)](compilers-ptat-1.6.3-static-scope-and-block-structure.md)
 - [Assoziation und Aggregation](assoziation-und-aggregation.md)
 - [PrusaSlicer settings for the Geeetech Prusa i3 Pro W](prusaslicer-geeetech-i3-settings.md)
 - [System.ExecutionEngineException](system-execution-engine-exception.md)
